@@ -1,0 +1,29 @@
+{
+    "camisetas": [
+        {
+            "nombre": "camiseta Boca",
+            "id": "1",
+            "precio": "3500",
+            "stock": "50",
+            "imagen": "1.jpg"
+        }
+    ],
+    "buzos": [
+        {
+            "nombre": "Buzo Boca",
+            "id": "6",
+            "precio": "5000",
+            "stock": "60",
+            "imagen": "6.jpg"
+        }
+    ],
+    "pantalones": [
+        {
+            "nombre": "Pantalon Boca",
+            "id": "11",
+            "precio": "4000",
+            "stock": "70",
+            "imagen": "11.jpg"
+        }
+    ]
+}
